@@ -5,7 +5,7 @@ LD = g++
 CFLAGS = -Wall -std=c++11
 LFLAGS = -Wall
 
-TRAB3OBJS = main.o
+TRAB3OBJS = main.o catalogo.o
 
 TRABALHOS = ./execTrab3
 

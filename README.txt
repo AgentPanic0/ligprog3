@@ -1,5 +1,5 @@
 Compilacao:
-<g++ -Wall -std=c++11 main.cpp catalogo.cpp -o execTrab2> ou <make all> ou <make execTrab3>
+<g++ -Wall -std=c++11 main.cpp catalogo.cpp -o execTrab3> ou <make all> ou <make execTrab3>
 
 Execucao:
 <.\execTrab3 <nomeArquivo.txt> >
